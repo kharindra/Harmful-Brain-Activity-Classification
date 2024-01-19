@@ -14,3 +14,13 @@ This work will help rapidly improve,
 - drug development
 
 Advancement in this area may allow doctors and brain researchers to detect **seizures** or other **brain damage** to provide faster and more accurate treatments.
+
+
+
+
+
+
+
+**Reference**
+
+Jin Jing, Zhen Lin, Chaoqi Yang, Ashley Chow, Sohier Dane, Jimeng Sun, M. Brandon Westover. (2024). HMS - Harmful Brain Activity Classification. Kaggle. https://kaggle.com/competitions/hms-harmful-brain-activity-classification
